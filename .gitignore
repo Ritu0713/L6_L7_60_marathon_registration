@@ -1,2 +1,6 @@
 __pycache__/
 .venv/
+venv/
+.coverage
+.coverage*
+.pytest_cache/
